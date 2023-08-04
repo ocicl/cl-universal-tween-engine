@@ -1,0 +1,9 @@
+* cl-universal-tween-engine
+
+Common Lisp port of the Universal Tween Engine
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/cl-universal-tween-engine |
+| commit  | 7232c03                                                      |
+| systems | universal-tween-engine                                       |
+|---------+--------------------------------------------------------------|
