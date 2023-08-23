@@ -4,6 +4,6 @@ Common Lisp port of the Universal Tween Engine
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/cl-universal-tween-engine |
-| commit  | 8127f52                                                      |
+| commit  | 2656385                                                      |
 | systems | universal-tween-engine                                       |
 |---------+--------------------------------------------------------------|
